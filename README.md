@@ -24,7 +24,7 @@ This repository contains materials for the course "TPG4155 - Applied Computer Me
   * LU decomposition
   * Python libraries for matrix inversion
 * [Derivative-free optimization](lectures/derivativeFreeOptimization.ipynb) (global)
-  * [Pattern search](patternSearch.ipynb)
+  * [Pattern search](lectures/patternSearch.ipynb)
   * [Nelder-Mead](nelderMead.ipynb)
   * Simulated Anhealing
   * Particle based optimization
