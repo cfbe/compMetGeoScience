@@ -1,4 +1,4 @@
-# Numerical methods in geoscience #
+# Computer methods in geoscience #
 
 ### About this repository ###
 
