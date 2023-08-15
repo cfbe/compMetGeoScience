@@ -23,9 +23,9 @@ This repository contains materials for the course "TPG4155 - Applied Computer Me
   * [Conjugate gradient method](lectures/conjugateGradientMethod.ipynb)
   * LU decomposition
   * Python libraries for matrix inversion
-* Derivative-free optimization (global)
-  * Nelder-Mead
-  * Pattern-Search
+* [Derivative-free optimization](lectures/derivativeFreeOptimization.ipynb) (global)
+  * [Pattern search](patternSearch.ipynb)
+  * [Nelder-Mead](nelderMead.ipynb)
   * Simulated Anhealing
   * Particle based optimization
     * Genetic algorithm
