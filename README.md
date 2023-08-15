@@ -8,7 +8,7 @@ This repository contains materials for the course "TPG4155 - Applied Computer Me
 
 ### Differential equations ###
 
-* Ordinary differential equations
+* [Ordinary differential equations](ordinaryDifferentialEquations.ipynb)
 * Partial differential equations
   * Elliptic (Laplace equation)
   * Parabolic (heat equation/diffusivity equation)
