@@ -16,7 +16,8 @@ This repository contains materials for the course "TPG4155 - Applied Computer Me
 
 ### Optimization ###
 
-* Bracket search
+* [Introduction](lectures/optimization.ipynb)
+* [Bracket search](lectures/bracketSearch.ipynb)
 * Gradient based optimization (local)
   * Gradient descent
   * Conjugate gradient
