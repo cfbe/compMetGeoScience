@@ -6,7 +6,7 @@ This repository contains materials for the course "TPG4155 - Applied Computer Me
 
 ## Contents ##
 
-###Differential equations###
+### Differential equations ###
 
 * Ordinary differential equations
 * Partial differential equations
@@ -14,7 +14,7 @@ This repository contains materials for the course "TPG4155 - Applied Computer Me
  * Parabolic (heat equation/diffusivity equation)
  * Hyperbolic (wave equation)
 
-###Optimization###
+### Optimization ###
 
 * Golden ratio
 -Gradient baserte/Local
@@ -34,6 +34,6 @@ This repository contains materials for the course "TPG4155 - Applied Computer Me
 * Adjoints
 
 
-###Neural networks###
+### Neural networks ###
 
 
