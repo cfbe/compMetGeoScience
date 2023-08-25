@@ -29,7 +29,7 @@ This repository contains materials for the course [TPG4155 - Applied Computer Me
   * Simulated Anhealing
   * Particle based optimization
     * Genetic algorithm
-    * Particle swarm optimization
+    * [Particle swarm optimization](lectures/particleSwarmOptimization.ipynb)
 * Advanced gradient methods
   * Automatic differentiation
   * Adjoints
