@@ -29,14 +29,15 @@ This repository contains materials for the course [TPG4155 - Applied Computer Me
   * [Pattern search](lectures/patternSearch.ipynb)
   * [Nelder-Mead](lectures/nelderMead.ipynb)
   * Simulated Anhealing
-  * Particle based optimization
+  * Evolutionary algorithms
     * Genetic algorithm
     * [Particle swarm optimization](lectures/particleSwarmOptimization.ipynb)
-* Advanced gradient methods
-  * Automatic differentiation
-  * Adjoints
+* Automatic differentiation
+  * Forward mode
+  * Backward mode (adjoints)
 
 
 ### Neural networks ###
 
-
+* Simple neural network
+  * Application to MNIST data
