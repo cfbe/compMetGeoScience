@@ -29,7 +29,7 @@ This repository contains materials for the course [TPG4155 - Applied Computer Me
   * [Pattern search](lectures/patternSearch.ipynb)
   * [Nelder-Mead](lectures/nelderMead.ipynb)
   * Simulated Anhealing
-  * Evolutionary algorithms
+  * [Evolutionary algorithms](lectures/evoluationaryAlgorithms.ipynb)
     * Genetic algorithm
     * [Particle swarm optimization](lectures/particleSwarmOptimization.ipynb)
 * Automatic differentiation
