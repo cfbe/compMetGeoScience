@@ -30,7 +30,7 @@ This repository contains materials for the course [TPG4155 - Applied Computer Me
   * [Nelder-Mead](lectures/nelderMead.ipynb)
   * Simulated Anhealing
   * [Evolutionary algorithms](lectures/evoluationaryAlgorithms.ipynb)
-    * Genetic algorithm
+    * [Genetic algorithm](lectures/geneticAlgorithm.ipynb)
     * [Particle swarm optimization](lectures/particleSwarmOptimization.ipynb)
 * Automatic differentiation
   * Forward mode
