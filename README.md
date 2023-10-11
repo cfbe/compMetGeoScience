@@ -24,7 +24,7 @@ This repository contains materials for the course [TPG4155 - Applied Computer Me
   * [Gradient descent](lectures/gradientDescent.ipynb)
   * [Conjugate gradient method](lectures/conjugateGradientMethod.ipynb)
   * [LU decomposition](lectures/ludecomposition.ipynb)
-  * [Derivative-free optimization](lectures/derivativeFreeOptimization.ipynb) (global)
+* [Derivative-free optimization](lectures/derivativeFreeOptimization.ipynb) (global)
   * [Pattern search](lectures/patternSearch.ipynb)
   * [Nelder-Mead](lectures/nelderMead.ipynb)
   * Simulated Anhealing
