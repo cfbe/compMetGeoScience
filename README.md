@@ -31,9 +31,7 @@ This repository contains materials for the course [TPG4155 - Applied Computer Me
   * [Evolutionary algorithms](lectures/evoluationaryAlgorithms.ipynb)
     * [Genetic algorithm](lectures/geneticAlgorithm.ipynb)
     * [Particle swarm optimization](lectures/particleSwarmOptimization.ipynb)
-* Automatic differentiation
-  * Forward mode
-  * Backward mode (adjoints)
+* [Automatic differentiation](lectures/automaticDifferentiataion.ipynb)
 
 
 ### Neural networks ###
