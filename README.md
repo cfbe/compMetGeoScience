@@ -31,10 +31,9 @@ This repository contains materials for the course [TPG4155 - Applied Computer Me
   * [Evolutionary algorithms](lectures/evoluationaryAlgorithms.ipynb)
     * [Genetic algorithm](lectures/geneticAlgorithm.ipynb)
     * [Particle swarm optimization](lectures/particleSwarmOptimization.ipynb)
-* [Automatic differentiation](lectures/automaticDifferentiataion.ipynb)
+* [Automatic differentiation](lectures/automaticDifferentiation.ipynb)
 
 
 ### Neural networks ###
 
-* Simple neural network
-  * Application to MNIST data
+* [Neural networks](lectures/neuralNetworks.ipynb)
