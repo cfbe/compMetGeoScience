@@ -36,5 +36,4 @@ This repository contains materials for the course [TPG4155 - Applied Computer Me
 
 ### Neural networks ###
 
-* Simple neural network
-  * Application to MNIST data
+* [Simple neural network](lectures/neuralNetworks.ipynb )
