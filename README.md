@@ -1,8 +1,8 @@
-# Computer methods in geoscience #
+# Computer methods in engineering #
 
 ### About this repository ###
 
-This repository contains materials for the course [TPG4155 - Applied Computer Methods in Petroleum Science](https://www.ntnu.edu/studies/courses/TPG4155). All material is stored as jupyter notebook files. Please install jupyter notebook from the [jupyter website](https://jupyter.org/) if you want to run the Python codes on your own.
+This repository contains materials for the course [TPG4155 - Computer Methods in Engineering](https://www.ntnu.edu/studies/courses/TPG4155). All material is stored as jupyter notebook files. Please install jupyter notebook from the [jupyter website](https://jupyter.org/) if you want to run the Python codes on your own.
 
 ## Content ##
 
