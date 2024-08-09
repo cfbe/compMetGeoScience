@@ -6,12 +6,17 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 
 ## Content ##
 
+<! en liten intro om python og hva er en class og en instance o.l.  >
+<! fortløpende legger vi inn øvinger på nett, med løsningsforslag >
+
 ### Differential equations ###
 
+<! skrive om ODE til classebasert, med arv (inheritense) av class når vi legger til en ny metode >
 * [Ordinary differential equations](lectures/ordinaryDifferentialEquations.ipynb)
 * [Partial differential equations](lectures/partialDifferentialEquations.ipynb)
   * [Elliptic equations](lectures/ellipticEquations.ipynb) (Laplace equation)
   * [Parabolic equations](lectures/parabolicEquations.ipynb) (heat equation/diffusivity equation)
+  <! Legg inn en liten intro om hyperbolic equations >
   *  Hyperbolic equations
       * [Wave equation 1D](lectures/waveEquation1D.ipynb)
       * [Wave equation 2D](lectures/waveEquation2D.ipynb)
@@ -36,4 +41,7 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 
 ### Neural networks ###
 
+<! clustering (k-means), suport vector machine, decision trees, eksempler med bruk av scikit-learn >
 * [Neural networks](lectures/neuralNetworks.ipynb)
+<! dimensions redusering (både med nevrale netverk og egenvektorer/egenverdier) - U-nets >
+<! diffusjonsmodeller for å generere nye eksempler >
