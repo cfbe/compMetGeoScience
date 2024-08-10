@@ -7,6 +7,7 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 ## Content ##
 
 <!-- en liten intro om python og hva er en class og en instance o.l.  -->
+[Introduction](lectures/pythonIntro.ipynb)
 <!-- fortløpende legger vi inn øvinger på nett, med løsningsforslag -->
 
 ### Differential equations ###
