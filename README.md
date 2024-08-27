@@ -13,7 +13,7 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 ### Differential equations ###
 
 <!-- skrive om ODE til classebasert, med arv (inheritense) av class når vi legger til en ny metode -->
-* [Ordinary differential equations](lectures/ordinaryDifferentialEquations.ipynb)
+* [Ordinary differential equations](lectures/ordinaryDifferentialEquations.ipynb) - [Exercise](exercises/exercise1.pdf) ([Solution](exercises/solution1.pdf))
 * [Partial differential equations](lectures/partialDifferentialEquations.ipynb)
   * [Elliptic equations](lectures/ellipticEquations.ipynb) (Laplace equation)
   * [Parabolic equations](lectures/parabolicEquations.ipynb) (heat equation/diffusivity equation)
