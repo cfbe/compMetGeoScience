@@ -46,3 +46,6 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 * [Neural networks](lectures/neuralNetworks.ipynb)
 <!-- dimensions redusering (både med nevrale netverk og egenvektorer/egenverdier) - U-nets -->
 <!-- diffusjonsmodeller for å generere nye eksempler -->
+
+### Exercises
+* [Exercise 1](lectures/exercise1.pdf)
