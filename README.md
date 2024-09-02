@@ -30,7 +30,7 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
   * [Gradient descent](lectures/gradientDescent.ipynb)
   * [Conjugate gradient method](lectures/conjugateGradientMethod.ipynb)
   * [LU decomposition](lectures/ludecomposition.ipynb) 
-* [Derivative-free optimization](lectures/derivativeFreeOptimization.ipynb) (global)
+  * [Derivative-free optimization](lectures/derivativeFreeOptimization.ipynb) (global)
   * [Pattern search](lectures/patternSearch.ipynb)
   * [Nelder-Mead](lectures/nelderMead.ipynb)
   * [Simulated Annealing](lectures/simulatedAnnealing.ipynb)
@@ -48,4 +48,7 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 <!-- diffusjonsmodeller for å generere nye eksempler -->
 
 ### Exercises
-* [Exercise 1](lectures/exercise1.pdf)
+* [Exercise 1](exercises/exercise1.pdf)
+   * [Solution 1](exercises/solution1.pdf)
+* [Exercise 2](exercises/exercise2.pdf)
+   * [Solution 2](exercises/solution2.pdf)
