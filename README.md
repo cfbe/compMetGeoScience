@@ -14,7 +14,7 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 
 <!-- skrive om ODE til classebasert, med arv (inheritense) av class når vi legger til en ny metode -->
 * [Ordinary differential equations](lectures/ordinaryDifferentialEquations.ipynb) - [Exercise](exercises/exercise1.pdf) ([Solution](exercises/solution1.pdf))
-* [Partial differential equations](lectures/partialDifferentialEquations.ipynb) - [Exercise 2](exercises/exercise2.pdf) ([Solution 2](exercises/solution2.pdf))
+* [Partial differential equations](lectures/partialDifferentialEquations.ipynb) - [Exercise](exercises/exercise2.pdf) ([Solution](exercises/solution2.pdf))
   * [Elliptic equations](lectures/ellipticEquations.ipynb) (Laplace equation)
   * [Parabolic equations](lectures/parabolicEquations.ipynb) (heat equation/diffusivity equation)
   <!-- Legg inn en liten intro om hyperbolic equations -->
