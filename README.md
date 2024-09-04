@@ -17,9 +17,7 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 * [Partial differential equations](lectures/partialDifferentialEquations.ipynb)
   * [Elliptic equations](lectures/ellipticEquations.ipynb) (Laplace equation)
   * [Parabolic equations](lectures/parabolicEquations.ipynb) (heat equation/diffusivity equation)
-  <!-- Legg inn en liten intro om hyperbolic equations -->
-  *  Hyperbolic equations
-      * [Wave equation 1D](lectures/waveEquation1D.ipynb)
+  * [Hyperbolic equations](lectures/hyperbolicEquations.ipynb)(wave equation)
       * [Wave equation 2D](lectures/waveEquation2D.ipynb)
 
 ### Optimization ###
