@@ -21,7 +21,7 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 
 * [Introduction](lectures/optimization.ipynb)
 * [Bracket search](lectures/bracketSearch.ipynb)
-* Gradient based optimization (local)
+* Gradient methods (local)
   * [Gradient descent](lectures/gradientDescent.ipynb)
   * [Conjugate gradient method](lectures/conjugateGradientMethod.ipynb)
   * [LU decomposition](lectures/ludecomposition.ipynb) 
