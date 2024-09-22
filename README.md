@@ -15,12 +15,12 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
   * [Elliptic equations](lectures/ellipticEquations.ipynb) (Laplace equation) - [Exercise](exercises/exercise3.pdf) ([Solution](exercises/solution3.pdf))
   * [Parabolic equations](lectures/parabolicEquations.ipynb) (heat equation/diffusivity equation)
   * [Hyperbolic equations](lectures/hyperbolicEquations.ipynb) (wave equation)
-      * [Wave equation 2D](lectures/waveEquation2D.ipynb)
+      * [Wave equation 2D](lectures/waveEquation2D.ipynb) - [Exercise](exercises/exercise4.pdf) ([Solution](exercises/solution4.pdf))
 
 ### Optimization ###
 
 * [Introduction](lectures/optimization.ipynb)
-* [Bracket search](lectures/bracketSearch.ipynb)
+* [Bracket search](lectures/bracketSearch.ipynb) - [Exercise](exercises/exercise5.pdf) ([Solution](exercises/solution5.pdf))
 * [Gradient methods](lectures/gradientMethods.ipynb) (local)
   * [Gradient descent](lectures/gradientDescent.ipynb)
   * [Conjugate gradient method](lectures/conjugateGradientMethod.ipynb)
@@ -52,3 +52,5 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 * [Exercise 4](exercises/exercise4.pdf)
    * [Solution 4](exercises/solution4.pdf)
    * [wave1d](exercises/wave1d.ipynb)
+* [Exercise 5](exercises/exercise5.pdf)
+   * [Solution 5](exercises/solution5.pdf)
