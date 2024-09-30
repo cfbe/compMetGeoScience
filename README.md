@@ -29,7 +29,7 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
   * [Pattern search](lectures/patternSearch.ipynb)
   * [Nelder-Mead](lectures/nelderMead.ipynb)
   * [Simulated Annealing](lectures/simulatedAnnealing.ipynb)
-  * [Evolutionary algorithms](lectures/evoluationaryAlgorithms.ipynb)
+  * [Evolutionary algorithms](lectures/evolutionaryAlgorithms.ipynb)
     * [Genetic algorithm](lectures/geneticAlgorithm.ipynb)
     * [Particle swarm optimization](lectures/particleSwarmOptimization.ipynb)
 * [Automatic differentiation](lectures/automaticDifferentiation.ipynb)
