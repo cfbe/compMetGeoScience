@@ -56,3 +56,5 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
    * [Solution 5](exercises/solution5.pdf)
 * [Exercise 6](exercises/exercise6.pdf)
    * [Solution 6](exercises/solution6.pdf)
+* [Exercise 7](exercises/exercise7.pdf)
+   * [Solution 7](exercises/solution7.pdf)
