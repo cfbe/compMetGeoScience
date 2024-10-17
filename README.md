@@ -39,6 +39,8 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 
 <!-- clustering (k-means), suport vector machine, decision trees, eksempler med bruk av scikit-learn -->
 * [Neural networks](lectures/neuralNetworks.ipynb)
+* [Clustering algorithms](lectures/clusteringAlgorithms.ipynb)
+    *[K-mans algorithm](lectures/kmeansAlgorithm.ipynb)
 <!-- dimensions redusering (både med nevrale netverk og egenvektorer/egenverdier) - U-nets -->
 <!-- diffusjonsmodeller for å generere nye eksempler -->
 
@@ -56,5 +58,3 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
    * [Solution 5](exercises/solution5.pdf)
 * [Exercise 6](exercises/exercise6.pdf)
    * [Solution 6](exercises/solution6.pdf)
-* [Exercise 7](exercises/exercise7.pdf)
-   * [Solution 7](exercises/solution7.pdf)
