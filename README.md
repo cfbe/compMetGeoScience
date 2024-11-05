@@ -41,8 +41,8 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 * [Neural networks](lectures/neuralNetworks.ipynb)
 * [Clustering and Classification algorithms](lectures/clusteringAlgorithms.ipynb)
     * [K-means algorithm](lectures/kmeansAlgorithm.ipynb)
-    * [Support vector machine](lectures/supportvectorMacine.ipynb)
-    * [Decision Trees](lectures/decisionTree.ipynb)
+    * [Support vector machine](lectures/supportvectorMachine.ipynb)
+    * [Decision Trees](lectures/decisisonTree.ipynb)
 
 <!-- dimensions redusering (både med nevrale netverk og egenvektorer/egenverdier) - U-nets -->
 <!-- diffusjonsmodeller for å generere nye eksempler -->
