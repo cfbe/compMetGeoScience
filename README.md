@@ -35,13 +35,13 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 * [Automatic differentiation](lectures/automaticDifferentiation.ipynb)
 
 
-### Neural networks ###
+### Machine learning ###
 * [Neural networks](lectures/neuralNetworks.ipynb)
 * [Clustering and Classification algorithms](lectures/clusteringAlgorithms.ipynb)
     * [K-means algorithm](lectures/kmeansAlgorithm.ipynb)
     * [Support vector machine](lectures/supportvectorMachine.ipynb)
     * [Decision Trees](lectures/decisionTree.ipynb)
-    * [Dimensionality reduction](lectures/dimensionalityReduction.ipynb)
+* [Dimensionality reduction](lectures/dimensionalityReduction.ipynb)
 
 <!-- diffusjonsmodeller for å generere nye eksempler -->
 
