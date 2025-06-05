@@ -6,7 +6,13 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 
 ## Content ##
 
+<!-- Add data preprocessing, noise, sensors, with a lot of examples -->
+<!-- Challenges with origin of data -->
+<!-- Also introduce an overview of methods, such as machine learning, digital twin, regression -->
+
 [Introduction](lectures/pythonIntro.ipynb)
+
+
 
 ### Differential equations ###
 
@@ -16,6 +22,7 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
   * [Parabolic equations](lectures/parabolicEquations.ipynb) (heat equation/diffusivity equation)
   * [Hyperbolic equations](lectures/hyperbolicEquations.ipynb) (wave equation)
       * [Wave equation 2D](lectures/waveEquation2D.ipynb) - [Exercise](exercises/exercise4.pdf) ([Solution](exercises/solution4.pdf))
+
 
 ### Optimization ###
 
@@ -34,6 +41,7 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
     * [Particle swarm optimization](lectures/particleSwarmOptimization.ipynb)
 * [Automatic differentiation](lectures/automaticDifferentiation.ipynb)
 
+<!-- A full section on automation: feedback control, PID, real-time data cleaning and filtering -->
 
 ### Machine learning ###
 * [Neural networks](lectures/neuralNetworks.ipynb)
