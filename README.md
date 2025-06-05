@@ -6,12 +6,12 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 
 ## Content ##
 
+<!-- Modelling and simulation, computer methods, in general -->
 <!-- Add data preprocessing, noise, sensors, with a lot of examples -->
 <!-- Challenges with origin of data -->
 <!-- Also introduce an overview of methods, such as machine learning, digital twin, regression -->
 
 [Introduction](lectures/pythonIntro.ipynb)
-
 
 
 ### Differential equations ###
@@ -41,7 +41,7 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
     * [Particle swarm optimization](lectures/particleSwarmOptimization.ipynb)
 * [Automatic differentiation](lectures/automaticDifferentiation.ipynb)
 
-<!-- A full section on automation: feedback control, PID, real-time data cleaning and filtering -->
+<!-- A full section on automation: feedback control, PID, real-time data cleaning and filtering, and real-time optimization 2.5 weeks -->
 
 ### Machine learning ###
 * [Neural networks](lectures/neuralNetworks.ipynb)
