@@ -22,7 +22,7 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
   * [Parabolic equations](lectures/parabolicEquations.ipynb) (heat equation/diffusivity equation)
   * [Hyperbolic equations](lectures/hyperbolicEquations.ipynb) (wave equation)
       * [Wave equation 2D](lectures/waveEquation2D.ipynb) - [Exercise](exercises/exercise4.pdf) ([Solution](exercises/solution4.pdf))
-
+<!-- Krympe hyperbolske ligninger til et minimum -->
 
 ### Optimization ###
 
@@ -41,7 +41,7 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
     * [Particle swarm optimization](lectures/particleSwarmOptimization.ipynb)
 * [Automatic differentiation](lectures/automaticDifferentiation.ipynb)
 
-<!-- A full section on automation: feedback control, PID, real-time data cleaning and filtering, and real-time optimization 2.5 weeks -->
+<!-- A full section on automation and cybernetics: feedback control, PID, real-time data cleaning and filtering, and real-time optimization 2.5 weeks -->
 
 ### Machine learning ###
 * [Neural networks](lectures/neuralNetworks.ipynb)
@@ -51,7 +51,9 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
     * [Decision Trees](lectures/decisionTree.ipynb)
 * [Dimensionality reduction](lectures/dimensionalityReduction.ipynb)
 
-<!-- diffusjonsmodeller for å generere nye eksempler -->
+<!-- heading: generative metoder -->
+<!-- Underdel 1: transformers, innkludert chatbot (Elisa eksempel?) -->
+<!-- Underdel 2: diffusjonsmodeller for å generere nye eksempler -->
 
 ### Exercises
 * [Exercise 1](exercises/exercise1.pdf)
