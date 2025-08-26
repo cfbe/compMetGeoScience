@@ -55,6 +55,8 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 <!-- Underdel 1: transformers, innkludert chatbot (Elisa eksempel?) -->
 <!-- Underdel 2: diffusjonsmodeller for å generere nye eksempler -->
 
+
+<!--
 ### Exercises
 * [Exercise 1](exercises/exercise1.pdf)
    * [Solution 1](exercises/solution1.pdf)
@@ -76,3 +78,4 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
    * [Solution-code](exercises/solution-code.ipynb)
 * [Exercise 9](exercises/exercise9.pdf)
    * [Solution 9](exercises/solution9.pdf)
+-->
