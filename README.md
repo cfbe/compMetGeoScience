@@ -16,7 +16,7 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 
 ### Differential equations ###
 
-* [Ordinary differential equations](lectures/ordinaryDifferentialEquations.ipynb) - [Exercise](exercises/exercise1.pdf) ([Solution](exercises/solution1.pdf))
+* [Ordinary differential equations](lectures/ordinaryDifferentialEquations.ipynb) - [Exercise](exercises/exerciseODE.pdf) ([Solution](exercises/solutionODE.pdf))
 * [Partial differential equations](lectures/partialDifferentialEquations.ipynb) - [Exercise](exercises/exercise2.pdf) ([Solution](exercises/solution2.pdf))
   * [Elliptic equations](lectures/ellipticEquations.ipynb) (Laplace equation) - [Exercise](exercises/exercise3.pdf) ([Solution](exercises/solution3.pdf))
   * [Parabolic equations](lectures/parabolicEquations.ipynb) (heat equation/diffusivity equation)
