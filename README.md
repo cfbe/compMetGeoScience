@@ -17,9 +17,9 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 ### Differential equations ###
 
 * [Ordinary differential equations](lectures/ordinaryDifferentialEquations.ipynb) - [Exercise](exercises/exerciseODE.pdf) ([Solution](exercises/solutionODE.pdf))
-* [Partial differential equations](lectures/partialDifferentialEquations.ipynb) - [Exercise](exercises/exercise2.pdf) ([Solution](exercises/solution2.pdf))
-  * [Elliptic equations](lectures/ellipticEquations.ipynb) (Laplace equation) - [Exercise](exercises/exercise3.pdf) ([Solution](exercises/solution3.pdf))
-  * [Parabolic equations](lectures/parabolicEquations.ipynb) (heat equation/diffusivity equation)
+* [Partial differential equations](lectures/partialDifferentialEquations.ipynb) - [Exercise](exercises/exerciseFiniteDifferences.pdf) ([Solution](exercises/solutionFiniteDifferences.pdf))
+  * [Elliptic equations](lectures/ellipticEquations.ipynb) (Laplace equation) - [Exercise](exercises/exerciseElliptic.pdf) ([Solution](exercises/solutionEllliptic.pdf))
+  * [Parabolic equations](lectures/parabolicEquations.ipynb) (heat equation/diffusivity equation) - [Exercise](exercises/exerciseParabolic.pdf) ([Solution](exercises/solutionParabolic.pdf))
   * [Hyperbolic equations](lectures/hyperbolicEquations.ipynb) (wave equation)
       * [Wave equation 2D](lectures/waveEquation2D.ipynb) - [Exercise](exercises/exercise4.pdf) ([Solution](exercises/solution4.pdf))
 <!-- Krympe hyperbolske ligninger til et minimum -->
