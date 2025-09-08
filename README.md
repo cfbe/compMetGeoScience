@@ -18,7 +18,7 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 
 * [Ordinary differential equations](lectures/ordinaryDifferentialEquations.ipynb) - [Exercise](exercises/exerciseODE.pdf) ([Solution](exercises/solutionODE.pdf))
 * [Partial differential equations](lectures/partialDifferentialEquations.ipynb) - [Exercise](exercises/exerciseFiniteDifferences.pdf) ([Solution](exercises/solutionFiniteDifferences.pdf))
-  * [Elliptic equations](lectures/ellipticEquations.ipynb) (Laplace equation) - [Exercise](exercises/exerciseElliptic.pdf) ([Solution](exercises/solutionEllliptic.pdf))
+  * [Elliptic equations](lectures/ellipticEquations.ipynb) (Laplace equation) - [Exercise](exercises/exerciseElliptic.pdf) ([Solution](exercises/solutionElliptic.pdf))
   * [Parabolic equations](lectures/parabolicEquations.ipynb) (heat equation/diffusivity equation) - [Exercise](exercises/exerciseParabolic.pdf) ([Solution](exercises/solutionParabolic.pdf))
   * [Hyperbolic equations](lectures/hyperbolicEquations.ipynb) (wave equation) - [Exercise](exercises/exerciseHyperbolic.pdf) ([Solution](exercises/solutionHyperbolic.pdf))
 
