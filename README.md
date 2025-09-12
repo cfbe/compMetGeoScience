@@ -26,7 +26,7 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 ### Optimization ###
 
 * [Introduction](lectures/optimization.ipynb)
-* [Bracket search](lectures/bracketSearch.ipynb) - [Exercise](exercises/exercise5.pdf) ([Solution](exercises/solution5.pdf))
+* [Bracket search](lectures/bracketSearch.ipynb) - [Exercise](exercises/exerciseBracket.pdf) ([Solution](exercises/solutionBracket.pdf))
 * [Gradient methods](lectures/gradientMethods.ipynb) (local)
   * [Gradient descent](lectures/gradientDescent.ipynb)
   * [Conjugate gradient method](lectures/conjugateGradientMethod.ipynb) - [Exercise](exercises/exercise6.pdf) ([Solution](exercises/solution6.pdf))
