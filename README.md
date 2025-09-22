@@ -29,7 +29,7 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 * [Bracket search](lectures/bracketSearch.ipynb) - [Exercise](exercises/exerciseBracket.pdf) ([Solution](exercises/solutionBracket.pdf))
 * [Gradient methods](lectures/gradientMethods.ipynb) (local)
   * [Gradient descent](lectures/gradientDescent.ipynb)- [Exercise](exercises/exerciseGradientDescent.pdf) ([Solution](exercises/solutionGradientDescent.pdf))
-  * [Conjugate gradient method](lectures/conjugateGradientMethod.ipynb) - [Exercise](exercises/exercise6.pdf) ([Solution](exercises/solution6.pdf))
+  * [Conjugate gradient method](lectures/conjugateGradientMethod.ipynb) - [Exercise](exercises/exerciseCG.pdf) ([Solution](exercises/solutionCG.pdf))
   * [LU decomposition](lectures/ludecomposition.ipynb) 
 * [Derivative-free optimization](lectures/derivativeFreeOptimization.ipynb) (global)
   * [Pattern search](lectures/patternSearch.ipynb)
