@@ -33,7 +33,7 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
   * [LU decomposition](lectures/ludecomposition.ipynb) - [Exercise](exercises/exerciseLU.pdf) ([Solution](exercises/solutionLU.pdf))
 * [Derivative-free optimization](lectures/derivativeFreeOptimization.ipynb) (global)
   * [Pattern search](lectures/patternSearch.ipynb) - [Exercise](exercises/exercisePatternSearch.pdf) ([Solution](exercises/solutionPatternSearch.pdf))
-  * [Nelder-Mead](lectures/nelderMead.ipynb)
+  * [Nelder-Mead](lectures/nelderMead.ipynb) - [Exercise](exercises/exerciseNelderMead.pdf) ([Solution](exercises/solutionNelderMead.pdf))
   * [Simulated Annealing](lectures/simulatedAnnealing.ipynb)
   * [Evolutionary algorithms](lectures/evolutionaryAlgorithms.ipynb)
     * [Genetic algorithm](lectures/geneticAlgorithm.ipynb)
