@@ -43,11 +43,11 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 <!-- A full section on automation and cybernetics: feedback control, PID, real-time data cleaning and filtering, and real-time optimization 2.5 weeks -->
 
 ### Machine learning ###
-* [Neural networks](lectures/neuralNetworks.ipynb)
 * [Clustering and Classification algorithms](lectures/clusteringAlgorithms.ipynb)
     * [K-means algorithm](lectures/kmeansAlgorithm.ipynb)
     * [Support vector machine](lectures/supportvectorMachine.ipynb)
     * [Decision Trees](lectures/decisionTree.ipynb)
+* [Neural networks](lectures/neuralNetworks.ipynb)
 * [Dimensionality reduction](lectures/dimensionalityReduction.ipynb)
 
 <!-- heading: generative metoder -->
