@@ -43,7 +43,7 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 <!-- A full section on automation and cybernetics: feedback control, PID, real-time data cleaning and filtering, and real-time optimization 2.5 weeks -->
 ### Automation ###
 * Introduction
-* Dynamic processes
+* Dynamic processes [Exercise: Create dynamic model to be used later]
 * Signal processing
     * Moving average and median filters
     * Low-pass filter
@@ -56,6 +56,7 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
         * [K-means research paper](lectures/paper-highlight.pdf)
     * [Support vector machine](lectures/supportvectorMachine.ipynb)
     * [Decision Trees](lectures/decisionTree.ipynb)
+    * Fuzzy logics
 * [Neural networks](lectures/neuralNetworks.ipynb)
 * [Dimensionality reduction](lectures/dimensionalityReduction.ipynb)
 
