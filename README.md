@@ -43,7 +43,7 @@ This repository contains materials for the course [TPG4155 - Computer Methods in
 <!-- A full section on automation and cybernetics: feedback control, PID, real-time data cleaning and filtering, and real-time optimization 2.5 weeks -->
 ### Automation ###
 <!-- * Introduction
-* Dynamic processes [Exercise: Create dynamic model to be used later]
+* Dynamic processes [Exercise: Create a dynamic model to be used later]
 * Signal processing
     * Moving average and median filters
     * Low-pass filter
